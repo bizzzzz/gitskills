@@ -1,0 +1,2 @@
+#merge
+这个文件是用来测试git分支的创建与合并的markdown文件。
